@@ -1,7 +1,7 @@
 ---
-title: "Turnip Green Soup"
+title: "Aunt Elizabeth's Turnip Green Soup"
 date: 2024-09-10
-description: "Savory and slightly spicy turnip green & sausage soup"
+description: "Aunt Elizabeth's savory and slightly spicy turnip green & sausage soup"
 tags: ['soup', 'bulk', 'freezer']
 ---
 Ingredients:
